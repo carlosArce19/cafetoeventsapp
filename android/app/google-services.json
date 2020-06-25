@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932142038310",
+    "firebase_url": "https://cafetoevent.firebaseio.com",
+    "project_id": "cafetoevent",
+    "storage_bucket": "cafetoevent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932142038310:android:176f0b50c3a7a97e0d15e7",
+        "android_client_info": {
+          "package_name": "com.cafetoevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932142038310-ibfta5a5hpbco9elk77un940eukdaco8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7g1TkX4iXXg1lS7wStFpOL_a2lU9BGGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932142038310-ibfta5a5hpbco9elk77un940eukdaco8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
